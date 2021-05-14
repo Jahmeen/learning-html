@@ -1,0 +1,23 @@
+body{
+	background-image: url(images/kamaru.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+h1{
+	color: red
+}
+p{
+	color: black
+}
+.ben{
+	color: green
+}
+.daks{
+	background-color: purple;
+	color: white;
+}
+.usman{
+	color: blue
+}
